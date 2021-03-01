@@ -38,6 +38,7 @@
 #include "epd/GxEPD2_154_M10.h"
 #include "epd/GxEPD2_213.h"
 #include "epd/GxEPD2_213_B72.h"
+#include "epd/GxEPD2_213_B72B.h"
 #include "epd/GxEPD2_213_B73.h"
 #include "epd/GxEPD2_213_flex.h"
 #include "epd/GxEPD2_213_M21.h"
